@@ -4,7 +4,7 @@
 ### Hi there, I'm Emre. :sunglasses:
 
 ##  Jr. Software Developer | Laravel
-<hr style="height:2px; margin-top:2px; ">
+
 <font color="red"><small>Do it today, or regret it tomorrow  ` < code /> ` </small></font>
 
 #### Reach out to me
