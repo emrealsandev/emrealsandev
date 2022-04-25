@@ -5,7 +5,7 @@
 
 ##  Jr. Software Developer | Laravel
 
-<font color="red"><small>Do it today, or regret it tomorrow  ` < code /> ` </small></font>
+<font color="red"> Do it today, or regret it tomorrow  ` < code /> ` </font>
 
 #### Reach out to me
 
