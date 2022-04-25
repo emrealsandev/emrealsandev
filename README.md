@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/3o7aTnQqygA3TcukFi/giphy.gif">
+<img width="100%" height="300" src="https://media.giphy.com/media/3o7aTnQqygA3TcukFi/giphy.gif">
 
 ### Hi there, I'm Emre. :sunglasses:
 
