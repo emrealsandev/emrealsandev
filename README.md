@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Emre. :sunglasses:
 
-##  Jr. Developer Vue | Laravel
+##  Jr. Backend Developer
 
 <font color="red"> <small> Do it today, or regret it tomorrow  ` < code /> ` </small> </font>
 
