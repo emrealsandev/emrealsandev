@@ -32,5 +32,3 @@
 [instagram]: https://www.instagram.com/emralsan/
 [mail]: mailto:emrealsandev@gmail.com
 
-![snake gif](https://github.com/emrealsandev/emrealsann/blob/output/github-contribution-grid-snake.gif)
-
